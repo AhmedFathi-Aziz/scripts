@@ -16,6 +16,7 @@
   chmod +x azan.sh
   ```
 2. run `azan.sh`: 
-    ``` 
-    ./azan.sh
-    ```
+
+  ``` 
+  ./azan.sh
+  ```
