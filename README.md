@@ -12,10 +12,10 @@
 
 1. make sure that azan.sh is executable. on Linux 
 
-  ```bash
+  ```
   chmod +x azan.sh
-
+  ```
 2. run `azan.sh`: 
-    ```bash 
+    ``` 
     ./azan.sh
-
+    ```
