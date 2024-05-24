@@ -20,3 +20,14 @@
   ``` 
   ./azan.sh
   ```
+
+## Overview
+
+- **csv to mysql:**
+  - read data from a CSV file and insert it into a MySQL database table. It removes duplicate rows based on a specified column (e.g., phone_number) to ensure data uniqueness.
+
+## usage
+
+1. ensure you have the necessary dependencies installed:
+    - ```python 3.x```
+    - ```mysql-connector-python```
